@@ -5,3 +5,7 @@
 <li>Pinpoint the primary reasons for ride cancellations.</li>
 <li>Suggest data-driven solutions to reduce cancellations and enhance the customer experience.</li>
 
+<h3>Tools and Technologies</h3>
+<l>SQL: Data extraction, cleaning, and transformation.</l>
+<l>Excel: Exploratory data analysis (EDA) and initial visualization.</l>
+<l>Power BI: Interactive dashboards and in-depth visualizations.</l>
