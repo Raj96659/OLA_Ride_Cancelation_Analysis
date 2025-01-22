@@ -23,3 +23,8 @@
 <h4>Payment Method Preferences</h4>
 
 <li>A higher rate of cancellations is observed for cash payment bookings, as drivers may prefer digital payments.</li>
+
+<h3>Conclusion</h3>
+<p>The analysis highlighted that ride cancellations are driven by low fares, long wait times, and inconvenient locations. Drivers often cancel due to unprofitable rides, while customers cancel due to delays or sudden changes in plans.
+
+To reduce cancellations, OLA can implement dynamic pricing, optimize ride allocation, incentivize digital payments, and improve communication. These strategies will enhance customer satisfaction, reduce disruptions, and ensure smoother operations.</p>
