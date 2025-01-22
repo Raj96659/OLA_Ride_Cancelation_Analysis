@@ -6,6 +6,6 @@
 <li>Suggest data-driven solutions to reduce cancellations and enhance the customer experience.</li>
 
 <h3>Tools and Technologies</h3>
-<l>SQL: Data extraction, cleaning, and transformation.</l>
-<l>Excel: Exploratory data analysis (EDA) and initial visualization.</l>
-<l>Power BI: Interactive dashboards and in-depth visualizations.</l>
+<li>SQL: Data extraction, cleaning, and transformation.</li>
+<li>Excel: Exploratory data analysis (EDA) and initial visualization.</li>
+<li>Power BI: Interactive dashboards and in-depth visualizations.</li>
