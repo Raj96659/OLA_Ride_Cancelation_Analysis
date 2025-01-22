@@ -9,3 +9,17 @@
 <li>SQL: Data extraction, cleaning, and transformation.</li>
 <li>Excel: Exploratory data analysis (EDA) and initial visualization.</li>
 <li>Power BI: Interactive dashboards and in-depth visualizations.</li>
+
+<h3>Key Trends in Ride Cancellations</h3>
+<ol>Cancellation Rates</ol>
+<li>~20% of cancellations are initiated by drivers, while ~10% are customer-initiated.</li>
+<li>Cancellations are more frequent during peak hours and weekends, likely due to high demand or driver unavailability.
+Location-Based Impact.</li>
+
+Certain locations experience higher cancellation rates, possibly due to traffic congestion or longer distances.
+Vehicle Type Correlation
+
+Budget vehicles have higher cancellation rates compared to premium vehicles, indicating potential fare-related issues or driver preferences.
+Payment Method Preferences
+
+A higher rate of cancellations is observed for cash payment bookings, as drivers may prefer digital payments.
