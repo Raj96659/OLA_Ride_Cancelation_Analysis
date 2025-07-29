@@ -25,11 +25,12 @@
 <li>Booking Details: Time of Booking, Estimated vs. Actual Pickup Time.</li>
 <li>Customer & Driver Metrics: Customer Ride History, Driver Cancellation Rate.</li>
 
-<h3>Data Cleaning</h3>
-<li>Handled missing and inconsistent data using SQL.</li>
-<li>Standardized cancellation reasons for better categorization.</li>
-<li>Removed duplicate entries and irrelevant data points.</li>
-<li>Analyzed booking timestamps to detect peak cancellation hours</li>
+<h3>How Was the Project Executed?</h3>
+<h4>1. Data Understanding & Cleaning</h4>
+<li>Data from ride bookings was cleaned using Python (Pandas)</li>
+<li>Null values, redundant columns, and irrelevant fields like Unnamed were removed</li>
+<li>Columns such as Only_Date, Time_Slot, Day_Name, Hour, and IS_WEEKEND were created for deeper analysis</li>
+<l1>Refer: 1_Understanding_Cleaning.ipynb</l1>
 
 <h3>Key Insights</h3>
 <li>Identified primary reasons for ride cancellations (e.g., driver cancellations, pricing issues, long wait times).</li>
