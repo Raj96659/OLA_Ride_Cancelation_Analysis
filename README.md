@@ -11,12 +11,12 @@
 <li>Revenue loss</li>
 <li>Lower customer satisfaction</li>
 <li>Operational inefficiency</li>
-
+<br>
 <p>Understanding "why and when" rides are cancelled allows the business to:</p>
 <li>Improve driver allocation</li>
 <li>Reduce avoidable cancellations</li>
 <li>Increase ride completion rates</li>
-
+<br>
 <h3>Dataset Details</h3>
 <p>The dataset includes the following key attributes:</p>
 
