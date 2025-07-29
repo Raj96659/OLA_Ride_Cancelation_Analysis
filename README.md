@@ -89,16 +89,25 @@
 <li>Cancelled rides had lower average booking value</li>
 <li>Lower driver/customer ratings are correlated with cancellations</li>
 <li>Ratings can be used as early warning indicators </li>
-
 </p>
 
-<h3>Technologies Used</h3>
-<li>SQL: Data extraction, cleaning, and transformation.</li>
-<li>Excel: Exploratory data analysis (EDA) and initial visualization.</li>
+<h3>7. Technologies Used</h3>
+<li>Python (Pandas, Matplotlib) : Understanding the data, data cleaning, standarization, Exploratory data analysis and visuals.</li>
+<li>SQL: Solving Business questions and created views.</li>
 <li>Power BI: Interactive dashboards and in-depth visualizations.</li>
+<li>Jupyter Notebook, MySQL Workbench</li>
 
-<h3>Conclusion</h3>
-<p>This analysis provides actionable insights into Ola’s ride cancellation patterns. By addressing key issues such as driver availability, pricing concerns, and long wait times, Ola can enhance customer satisfaction and reduce cancellation rates.</p>
+<h3>8. Final Outcome</h3>
+<li>✅ Delivered a complete Data Analytics + Machine Learning project</li>
+<li>✅ Supported by SQL views, Power BI dashboards, and Python-based modeling</li>
+<li>✅ Identified high-impact areas for operational improvement and revenue protection</li>
 
-<h3>Contact</h3>
+<h3>9. Conclusion</h3>
+<p>This project provided a 360-degree view of ride cancellation behavior on a ride-hailing platform like Ola. Through a combination of Python for data cleaning and analysis, SQL for business logic, machine learning for prediction, and Power BI for visualization, we uncovered critical factors contributing to cancellations. We found that over 38% of rides were cancelled — primarily due to driver-related issues, location bottlenecks like Langford Town and Hosur Road, and peak-time booking failures during morning and night slots. Repeat cancellers and poor rating patterns further added to reliability risks.
+
+By building a cancellation prediction model, we enabled the possibility of proactively identifying risky bookings before they fail. The Power BI dashboards made these insights accessible to non-technical stakeholders for real-time decision-making.
+
+This project demonstrates how data can be used to drive actionable strategies for improving customer experience, optimizing driver allocation, and ultimately minimizing cancellation losses.</p>
+
+<h3>10. Contact</h3>
 <p>For queries, email sonawaneraj128@gmail.com or connect on LinkedIn [www.linkedin.com/in/raj-sonawane96659].</p>
