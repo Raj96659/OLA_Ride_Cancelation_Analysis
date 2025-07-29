@@ -68,24 +68,24 @@
 
 <h3>6. Key Insights (Findings)</h3>
 <p>
-📉 Cancellations:
-38% of total rides were cancelled
-Top reasons:
-  > Driver unavailability
-  > Location issues
-  > Customers changing plans
-Most cancellations occur during Morning & Night on weekdays (esp. Monday–Tuesday)
+<h4>📉 Cancellations:</h4>
+<li>38% of total rides were cancelled</li>
+<li>Top reasons:</li>
+  <li>> Driver unavailability</li>
+  <li>> Location issues</li>
+  <li>> Customers changing plans</li>
+<li>Most cancellations occur during Morning & Night on weekdays (esp. Monday–Tuesday)</li>
 
-🧑‍🤝‍🧑 Repeat Cancellers:
+<h4>🧑‍🤝‍🧑 Repeat Cancellers:</h4>
 372 customers cancelled rides multiple times
 Drivers also canceled for these users due to health/safety concerns
 Suggests behavior-based filtering is needed
 
-📍 Location Hotspots:
+<h4>📍 Location Hotspots:</h4>
 Langford Town & Hosur Road had the highest cancellation rates as both pickup and drop locations
 Targeted operations and driver incentives needed in these zones
 
-📈 Revenue & Ratings:
+<h4>📈 Revenue & Ratings:</h4>
 Cancelled rides had lower average booking value
 Lower driver/customer ratings are correlated with cancellations
 Ratings can be used as early warning indicators  
