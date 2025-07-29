@@ -1,12 +1,12 @@
 # OLA_Ride_Cancelation_Analysis
-<h3>What is the Project About?</h3>
+<h2>What is the Project About?</h2>
 <p>This project analyzes ride cancellation patterns in Ola to understand the key reasons behind cancellations and their impact on customer experience. The Goal is to :</p>
 <li>Identify cancellation trends and patterns.</li>
 <li>Find root causes behind failed rides.</li>
 <li>Predict cancellations using machine learning.</li>
 <li>Deliver insights using SQL views and Power BI dashboards.</li>
 
-<h3>Why This Project?</h3>
+<h2>Why This Project?</h2>
 <p>Cancellations not only frustrate customers but also result in:</p>
 <li>Revenue loss</li>
 <li>Lower customer satisfaction</li>
@@ -17,7 +17,7 @@
 <li>Reduce avoidable cancellations</li>
 <li>Increase ride completion rates</li>
 <br>
-<h3>Dataset Details</h3>
+<h2>Dataset Details</h2>
 <p>The dataset includes the following key attributes:</p>
 
 <li>Ride Details: Ride ID, Customer ID, Driver ID, Pickup & Drop Locations.</li>
@@ -25,26 +25,26 @@
 <li>Booking Details: Time of Booking, Estimated vs. Actual Pickup Time.</li>
 <li>Customer & Driver Metrics: Customer Ride History, Driver Cancellation Rate.</li>
 
-<h3>How Was the Project Executed?</h3>
-<h4>1. Data Understanding & Cleaning</h4>
+<h2>How Was the Project Executed?</h2>
+<h3>1. Data Understanding & Cleaning</h3>
 <li>Data from ride bookings was cleaned using Python (Pandas)</li>
 <li>Null values, redundant columns, and irrelevant fields like Unnamed were removed</li>
 <li>Columns such as Only_Date, Time_Slot, Day_Name, Hour, and IS_WEEKEND were created for deeper analysis</li>
 <li>Refer: 1_Understanding_Cleaning.ipynb</li>
 
-<h4>2. Exploratory Data Analysis (EDA)</h4>
+<h3>2. Exploratory Data Analysis (EDA)</h3>
 <li>Visualized booking status by time, day, vehicle, and customer behavior</li>
 <li>Found patterns around when, where, and why cancellations occurred</li>
 <li>Refer: 2_EDA.ipynb</li>
 
-<h4>3. Machine Learning Model</h4>
+<h3>3. Machine Learning Model</h3>
 <li>Target: Is_Cancelled (Success = 0, Canceled = 1)</li>
 <li>Features: Vehicle_Type, Pickup_Location, Day_Name, Time_Slot, Booking_Value, etc</li>
 <li>Used Logistic Regression to predict likely cancellations</li>
 <li>Achieved valuable classification performance.</li>
 <li>Outcome: Enables the company to preemptively flag risky bookings</li>
 
-<h4>4. SQL Analysis</h4>
+<h3>4. SQL Analysis</h3>
 <li>Used SQL to answer business questions and create views:</li>
 <li>Top vehicle types by distance</li>
 <li>Cancellations by reason and source</li>
@@ -53,7 +53,7 @@
 <li>Total revenue lost</li>
 <li>Refer: Sql_BI_questions_ans.docx</li>
 
-<h4>5. Power BI Dashboarding</h4>
+<h3>5. Power BI Dashboarding</h3>
 <li>Created 10 key dashboards:</li>
 <li>Ride Volume Over Time</li>
 <li>Booking Status Breakdown</li>
@@ -66,7 +66,7 @@
 <li>Driver Ratings Distribution</li>
 <li>Customer vs Driver Rating Comparison</li>
 
-<h4>6. Key Insights (Findings)</h4>
+<h3>6. Key Insights (Findings)</h3>
 <p>
 📉 Cancellations:
 38% of total rides were cancelled
