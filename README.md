@@ -77,18 +77,19 @@
 <li>Most cancellations occur during Morning & Night on weekdays (esp. Monday–Tuesday)</li>
 
 <h4>🧑‍🤝‍🧑 Repeat Cancellers:</h4>
-372 customers cancelled rides multiple times
-Drivers also canceled for these users due to health/safety concerns
-Suggests behavior-based filtering is needed
+<li>372 customers cancelled rides multiple times</li>
+<li>Drivers also canceled for these users due to health/safety concerns</li>
+<li>Suggests behavior-based filtering is needed</li>
 
 <h4>📍 Location Hotspots:</h4>
-Langford Town & Hosur Road had the highest cancellation rates as both pickup and drop locations
-Targeted operations and driver incentives needed in these zones
+<li>Langford Town & Hosur Road had the highest cancellation rates as both pickup and drop locations</li>
+<li>Targeted operations and driver incentives needed in these zones</li>
 
 <h4>📈 Revenue & Ratings:</h4>
-Cancelled rides had lower average booking value
-Lower driver/customer ratings are correlated with cancellations
-Ratings can be used as early warning indicators  
+<li>Cancelled rides had lower average booking value</li>
+<li>Lower driver/customer ratings are correlated with cancellations</li>
+<li>Ratings can be used as early warning indicators </li>
+
 </p>
 
 <h3>Technologies Used</h3>
