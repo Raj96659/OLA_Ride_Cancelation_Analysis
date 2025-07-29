@@ -1,6 +1,21 @@
 # OLA_Ride_Cancelation_Analysis
-<h3>Project Overview</h3>
-<p>This project analyzes ride cancellation patterns in Ola to understand the key reasons behind cancellations and their impact on customer experience. The objective is to provide data-driven insights to help Ola improve service reliability and reduce cancellation rates..</p>
+<h3>What is the Project About?</h3>
+<p>This project analyzes ride cancellation patterns in Ola to understand the key reasons behind cancellations and their impact on customer experience. The Goal is to :</p>
+<li>Identify cancellation trends and patterns.</li>
+<li>Find root causes behind failed rides.</li>
+<li>Predict cancellations using machine learning.</li>
+<li>Deliver insights using SQL views and Power BI dashboards.</li>
+
+<h3>Why This Project?</h3>
+<p>Cancellations not only frustrate customers but also result in:</p>
+<li>Revenue loss</li>
+<li>Lower customer satisfaction</li>
+<li>Operational inefficiency</li>
+
+<p>Understanding "why and when" rides are cancelled allows the business to:</p>
+<li>Improve driver allocation</li>
+<li>Reduce avoidable cancellations</li>
+<li>Increase ride completion rates</li>
 
 <h3>Dataset Details</h3>
 <p>The dataset includes the following key attributes:</p>
@@ -8,13 +23,13 @@
 <li>Ride Details: Ride ID, Customer ID, Driver ID, Pickup & Drop Locations.</li>
 <li>Cancellation Information: Reason for Cancellation, Who Canceled (Driver/Customer).</li>
 <li>Booking Details: Time of Booking, Estimated vs. Actual Pickup Time.</li>
-<li></li>Customer & Driver Metrics: Customer Ride History, Driver Cancellation Rate.</li>
+<li>Customer & Driver Metrics: Customer Ride History, Driver Cancellation Rate.</li>
 
 <h3>Data Cleaning</h3>
 <li>Handled missing and inconsistent data using SQL.</li>
 <li>Standardized cancellation reasons for better categorization.</li>
 <li>Removed duplicate entries and irrelevant data points.</li>
-<li></li>Analyzed booking timestamps to detect peak cancellation hours</li>
+<li>Analyzed booking timestamps to detect peak cancellation hours</li>
 
 <h3>Key Insights</h3>
 <li>Identified primary reasons for ride cancellations (e.g., driver cancellations, pricing issues, long wait times).</li>
