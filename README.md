@@ -30,17 +30,27 @@
 <li>Data from ride bookings was cleaned using Python (Pandas)</li>
 <li>Null values, redundant columns, and irrelevant fields like Unnamed were removed</li>
 <li>Columns such as Only_Date, Time_Slot, Day_Name, Hour, and IS_WEEKEND were created for deeper analysis</li>
-<l1>Refer: 1_Understanding_Cleaning.ipynb</l1>
+<li>Refer: 1_Understanding_Cleaning.ipynb</li>
 
-<h3>Key Insights</h3>
-<li>Identified primary reasons for ride cancellations (e.g., driver cancellations, pricing issues, long wait times).</li>
-<li>Determined high-risk time slots and locations where cancellations are frequent.</li>
-<li>Analyzed customer behavior patterns and impact on retention.</li>
-<li>Assessed driver-side factors contributing to ride cancellations.</li>
+<h4>2. Exploratory Data Analysis (EDA)</h4>
+<li>Visualized booking status by time, day, vehicle, and customer behavior</li>
+<li>Found patterns around when, where, and why cancellations occurred</li>
+<li>Refer: 2_EDA.ipynb</li>
 
-<h3>Visualizations</h3>
-<li>Created Power BI dashboards</li>
-<li>Used bar charts, pie charts, heatmaps</li>
+<h4>3. Machine Learning Model</h4>
+<li>Target: Is_Cancelled (Success = 0, Canceled = 1)</li>
+<li>Features: Vehicle_Type, Pickup_Location, Day_Name, Time_Slot, Booking_Value, etc</li>
+<li>Used Logistic Regression to predict likely cancellations</li>
+<li>Achieved valuable classification performance.</li>
+<li>Outcome: Enables the company to preemptively flag risky bookings</li>
+
+<h4>4. SQL Analysis</h4>
+<li>Used SQL to answer business questions and create views:</li>
+<li>Top vehicle types by distance</li>
+<li>Cancellations by reason and source</li>
+<li>High-value customers</li>
+<li>Average ratings by vehicle type</li>
+<li>Total revenue lost</li>
 
 <h3>Technologies Used</h3>
 <li>SQL: Data extraction, cleaning, and transformation.</li>
